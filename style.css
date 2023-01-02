@@ -5,3 +5,9 @@ body {
 	color: #CD5C5C;
 	background: #03FFA7
 }
+
+}
+.left {
+	float: left;
+	margin: 0 1em 1em 0;
+}
